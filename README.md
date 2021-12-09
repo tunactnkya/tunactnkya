@@ -1,2 +1,1 @@
-Şu anda Öğreniyorum
 
