@@ -6,7 +6,7 @@
 ### <div align="center">I'm  Tunahan, Frontend  Developer 👨‍💻  since 2021 🚀</div>  
   
 
--   
+-   🔭 I’m currently working on Frontend
   
 
 - 🌱 I’m currently learning Angular.  
